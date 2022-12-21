@@ -2,7 +2,7 @@
 Integrar Clickup y github
 
 
-# CAMBIAMOS UNA PARTE, SINCRONIZAMOS y ponemos en progreso con
+# TAREA EN PROGRESO
 ``#TaskId[in progress]``
 
 
@@ -21,3 +21,6 @@ Integrar Clickup y github
 
 # TAREA CERRADA
 ``#TaskId[closed]``
+
+# TAREA BLOQUEADA
+``#TaskId[blocked]``
