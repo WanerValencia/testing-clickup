@@ -10,7 +10,11 @@ Integrar Clickup y github
 ``#TaskId[pending]``
 
 # TAREA COMPLETADA
-``#TaskId-[completed]``
+``#TaskId[completed]``
 
 # TAREA EN REVISIÓN
 ``#TaskId[in review]``
+
+
+# TAREA DE BUG
+``#TaskId[bug]``
