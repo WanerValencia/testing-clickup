@@ -3,11 +3,14 @@ Integrar Clickup y github
 
 
 # CAMBIAMOS UNA PARTE, SINCRONIZAMOS y ponemos en progreso con
-``#TaskId-[in progress]``
+``#TaskId[in progress]``
 
 
 # TAREA PENDIENTE
-``#TaskId-[pending]``
+``#TaskId[pending]``
 
 # TAREA COMPLETADA
 ``#TaskId-[completed]``
+
+# TAREA EN REVISIÓN
+``#TaskId[in review]``
