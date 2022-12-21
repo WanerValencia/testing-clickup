@@ -1,5 +1,4 @@
-# testing-clickup
-Integrar Clickup y github
+Integrar Clickup y Github
 
 
 # TAREA EN PROGRESO
