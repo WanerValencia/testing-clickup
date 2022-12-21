@@ -18,3 +18,6 @@ Integrar Clickup y github
 
 # TAREA DE BUG
 ``#TaskId[bug]``
+
+# TAREA CERRADA
+``#TaskId[closed]``
