@@ -8,3 +8,6 @@ Integrar Clickup y github
 
 # TAREA PENDIENTE
 ``#TaskId-[pending]``
+
+# TAREA COMPLETADA
+``#TaskId-[completed]``
